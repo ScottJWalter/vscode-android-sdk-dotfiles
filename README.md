@@ -1,1 +1,0 @@
-# vscode-android-sdk-dotfiles
